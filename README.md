@@ -1,4 +1,16 @@
-Clinic
-======
+# Clinic
 
-Add the address after the server location in: ***config/config.php, line 3, root_dir*** example: if server run on main directory => root_dir = '/'
+a simple clinic website by **mvc architecture**  .
+
+## features
+ - CRUD Doctors
+ - CRUD Department
+	 - add doctor
+ - Appointment reservation
+			 - CRD for patient
+			 - R for doctors
+
+## Usage
+
+ 1. import **clinic.sql** to database
+ 2. run server in public directory
