@@ -8,7 +8,7 @@ class MySqlConnection implements ConnectionInterface
     private $host = "127.0.0.1";
     private $name = "clinic";
     private $user = "root";
-    private $pass = "";
+    private $pass = "1234";
 
     private \PDO $conn;
 
