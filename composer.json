@@ -1,0 +1,16 @@
+{
+  "name": "alireza/config",
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/",
+      "Core\\": "Core/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Alireza Alizadeh",
+      "email": "alirezaa025@gmail.com"
+    }
+  ],
+  "require": {}
+}
